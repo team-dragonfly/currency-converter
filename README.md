@@ -1,4 +1,4 @@
-_# Currency Converter Application
+# Currency Converter Application
 
 ## Description
 
